@@ -11,7 +11,7 @@ After all the actions, progress will start appearing in the terminal, and a file
 
 UPD: at the moment, phones do not have the ability to save
 
-=====================
+-------------------
 #by krest1c_
-=====================
+-------------------
 #v1: 21.06.2026
