@@ -1,6 +1,8 @@
 #Hi! This script will help you circumvent all Avito's restrictions on parsing their site.
 
 --------------------HOW TO USE SCRIPT?--------------------
+0. Install all requirements from requirements.txt
+
 To do this, in main.py specify: 
 1. the website you want to parse
 2. the category on the site that needs to be parsed
