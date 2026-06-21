@@ -17,3 +17,4 @@ UPD: at the moment, phones do not have the ability to save
 #by krest1c_
 -------------------
 #v1: 21.06.2026
+<img width="1536" height="1024" alt="ChatGPT Image 21 июн  2026 г , 10_53_46" src="https://github.com/user-attachments/assets/7bffb540-1c41-4e25-b9e0-2ee8a8f7ce77" />
